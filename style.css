@@ -1,1 +1,9 @@
-<p{color:pink;} </p>
+body {
+  color:purple;
+  background-color: green;
+}
+  
+  
+p{
+  color:green;
+}
