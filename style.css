@@ -1,9 +1,16 @@
 body {
-  color:purple;
+  color:white;
   background-color: green;
+  font-family:arial;
 }
-  
+h1{
+  font:30px;
+}
+h2{
+  font:100px;
+}
   
 p{
   color:green;
 }
+
