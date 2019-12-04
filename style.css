@@ -1,16 +1,16 @@
 body {
-  color:white;
+  color: white;
   background-color: green;
-  font-family:arial;
+  font-family: arial;
 }
-h1{
-  font:30px;
+h1 {
+  font: 30px;
 }
-h2{
+h2 {
   font: italic, 100px;
 }
-  
-p{
-  color:green;
+
+p {
+  color: green;
 }
 
